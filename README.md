@@ -19,7 +19,3 @@ My bank accounts, savings and crypto in one app, and where the money goes each m
 ### [CROUS alert](https://github.com/medmehdimobtahij-ship-it/alerte-crous)
 
 A small bot that watches for student housing and pings my phone when something frees up, because refreshing the page all day wasn't working.
-
----
-
-[LinkedIn](https://www.linkedin.com/in/medmobtahij)
