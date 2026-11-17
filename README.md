@@ -10,7 +10,7 @@ Everything here started from a real need, at work or in my personal life.
 ## At work
 
 - **[CRM for accounting firms](https://github.com/medmehdimobtahij-ship-it/crm-cabinet-comptable)**, prospects, engagement letters, Outlook and Pennylane in one place
-- **[Online year-end file](https://github.com/medmehdimobtahij-ship-it/dossier-bilan-web)**, the firm's year-end closing Excel rebuilt as a web app
+- **[Year-end closing file](https://github.com/medmehdimobtahij-ship-it/dossier-bilan-web)**, review by cycle, revenue and VAT tie-out, corporate tax and AGM. Reviewing our old Excel formula by formula, I found 9 errors, including tax losses that silently disappeared
 
 ## For me
 
