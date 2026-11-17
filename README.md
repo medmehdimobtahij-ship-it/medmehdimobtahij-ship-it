@@ -1,30 +1,30 @@
 # Mehdi Mobtahij
 
-Comptable de formation, développeur par curiosité.
+Accountant by training, developer out of curiosity.
 
-Je suis en alternance dans un cabinet d'expertise comptable, et je passe pas mal de temps à me demander pourquoi on fait encore certaines choses à la main.
-Quand une tâche me prend trop de temps, j'essaie de construire l'outil qui la fera à ma place, souvent avec l'IA comme copilote.
+I work as an apprentice in an accounting firm, and I spend a lot of time wondering why we still do some things by hand.
+When a task takes me too long, I try to build the tool that will do it for me, often with AI as my copilot.
 
-Ici, il n'y a que des outils nés d'un vrai besoin, au bureau ou dans ma vie perso.
+Everything here started from a real need, at work or in my personal life.
 
-## Au bureau
+## At work
 
-- **[CRM pour cabinet](https://github.com/medmehdimobtahij-ship-it/crm-cabinet-comptable)**, pour réunir prospects, lettres de mission, Outlook et Pennylane au même endroit
-- **[Dossier bilan en ligne](https://github.com/medmehdimobtahij-ship-it/dossier-bilan-web)**, l'Excel de dossier bilan du cabinet refait en application web
+- **[CRM for accounting firms](https://github.com/medmehdimobtahij-ship-it/crm-cabinet-comptable)**, prospects, engagement letters, Outlook and Pennylane in one place
+- **[Online year-end file](https://github.com/medmehdimobtahij-ship-it/dossier-bilan-web)**, the firm's year-end closing Excel rebuilt as a web app
 
-## Pour moi
+## For me
 
-- **[Suivi de patrimoine](https://github.com/medmehdimobtahij-ship-it/patrimoine)** ([démo](https://medmehdimobtahij-ship-it.github.io/patrimoine/)), mes comptes, mon épargne et ma crypto dans une seule appli
-- **[Alerte CROUS](https://github.com/medmehdimobtahij-ship-it/alerte-crous)**, un bot qui surveille les logements CROUS qui se libèrent et m'alerte sur mon téléphone pendant que je travaille
+- **[Wealth tracker](https://github.com/medmehdimobtahij-ship-it/patrimoine)** ([demo](https://medmehdimobtahij-ship-it.github.io/patrimoine/)), my bank accounts, savings and crypto in a single app
+- **[CROUS alert](https://github.com/medmehdimobtahij-ship-it/alerte-crous)**, a bot that watches for student housing that frees up and pings my phone while I'm at work
 
-## En ce moment
+## Right now
 
-Je prépare le DSCG.
+Studying for the DSCG (French advanced accounting degree).
 
-## En dehors de l'écran
+## Away from the screen
 
-Haltérophilie, esport, voyages.
+Weightlifting, esports, travel.
 
 [LinkedIn](https://www.linkedin.com/in/medmobtahij)
 
-<sub>Les projets du cabinet tournent en mode démo, avec des données fictives.</sub>
+<sub>The work projects run in demo mode with fictional data.</sub>
